@@ -14,7 +14,7 @@
     font-weight: normal;
 }
 
-.txtbox {
+.txtbox{
     background: #24303c;
     border: 1px solid #1f53c5;
     font-size: 18px;
@@ -32,12 +32,12 @@
     margin: 0 5px 0 0;
 }
 
-.registerform a {
+.registerform a{
     font-size: 18px;
     color: white;
 }
 
-.btn {
+.btn{
     width: 100%;
     margin: 16px 0px;
     background: #1f53c5;
