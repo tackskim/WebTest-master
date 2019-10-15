@@ -1,0 +1,15 @@
+.registerfrom{
+    width: 400px;
+    background-color: #24303c;
+    padding: 30px;
+    color: white;
+    font-family: 'Times New Roman', Arial;
+    border-radius: 3px;
+}
+
+.registerform h5{
+    margin: 0;
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
